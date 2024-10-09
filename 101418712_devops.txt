@@ -2,3 +2,8 @@ Overview of COMP 3104 DevOps Course
 
 Course Description:
 The COMP 3104 DevOps course introduces students to the principles and practices of DevOps, emphasizing the integration of software development and IT operations to enhance collaboration and productivity.
+
+Learning Objectives:
+- Understand the core concepts of DevOps and its significance in modern software development.
+- Gain hands-on experience with tools and technologies commonly used in DevOps practices.
+- Learn to automate deployment pipelines, continuous integration, and continuous delivery (CI/CD).
