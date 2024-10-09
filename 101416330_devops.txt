@@ -1,1 +1,2 @@
 "Details on the Comp 3104 DevOps course." 
+"Automated testing and CI/CD are important DevOps techniques." 
