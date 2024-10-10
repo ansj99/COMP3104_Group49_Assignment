@@ -1,1 +1,2 @@
 "DevOps is integral to the software development lifecycle." 
+"DevOps aids in bridging the gap between development and operations." 
