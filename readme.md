@@ -17,3 +17,4 @@ in `.github/workflows/ci.yml`.
 Each member has their own branch named `STUDENTID-Name`. All changes are 
 merged into the `main` branch via Pull Requests."- **Member 3 Sandra Antony** (101416330) - [GitHub](https://github.com/Sandra2503)" 
 "This project leverages GitHub Actions for continuous integration and delivery." 
+"Each group member utilizes a branch named after their student ID." 
