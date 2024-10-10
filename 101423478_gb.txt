@@ -1,3 +1,5 @@
 Information about George brown college.
 It is located in Toronto, Canada.
 its a public college which provides seemless education for the students.
+Courses offered in this college.
+George Brown College offers courses like Art and Design, Business, Community service and Information technolofy
