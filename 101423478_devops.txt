@@ -1,0 +1,2 @@
+information about Devops course
+Its a software development and operations approach that enables faster development of new products and easier maintenance of existing deployments
