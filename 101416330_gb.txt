@@ -1,1 +1,2 @@
 "George Brown College offers a variety of technology courses." 
+"The college emphasizes hands-on learning experiences." 
