@@ -18,3 +18,4 @@ Each member has their own branch named `STUDENTID-Name`. All changes are
 merged into the `main` branch via Pull Requests."- **Member 3 Sandra Antony** (101416330) - [GitHub](https://github.com/Sandra2503)" 
 "This project utilizes GitHub Actions for continuous integration and deployment." 
 "Each group member uses a branch named after their student ID." 
+"This project focuses on collaborative Git workflows, CI/CD integration, and the application of DevOps principles in software development." 
