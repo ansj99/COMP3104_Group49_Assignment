@@ -19,3 +19,5 @@ merged into the `main` branch via Pull Requests."- **Member 3 Sandra Antony** (1
 "This project leverages GitHub Actions for continuous integration and delivery." 
 "Each group member utilizes a branch named after their student ID." 
 "This project focuses on collaborative Git workflows, CI/CD integration, and the application of DevOps principles in software development." 
+"- Member 2: [GitHub](https://github.com/member2)" 
+"- Member 3: [GitHub](https://github.com/member3)" 
