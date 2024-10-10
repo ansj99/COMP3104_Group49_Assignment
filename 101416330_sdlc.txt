@@ -1,1 +1,2 @@
 "DevOps is crucial in the software development lifecycle." 
+"DevOps helps in bridging the gap between development and operations teams." 
