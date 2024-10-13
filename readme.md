@@ -3,6 +3,9 @@
 - **Leader:**  Ans Joju (101418520) - [GitHub](https://github.com/ansj99)
 - **Member 2:** Jane Doe (1023456) - [GitHub](https://github.com/janedoe)
 - **Member 3:** John Smith (1027890) - [GitHub](https://github.com/johnsmith)
+- **Member 4:** Jane Doe (1023456) - [GitHub](https://github.com/janedoe)
+- **Member 5:** John Smith (1027890) - [GitHub](https://github.com/johnsmith)
+- **Member 6:** Basil Shaji (101431938) - [GitHub](https://github.com/BasilShaji07)
 ## Project Description
 This repository hosts the group assignment for COMP3104 DevOps course, focusing on 
 collaborative Git workflows, branching strategies, and CI/CD integration.
