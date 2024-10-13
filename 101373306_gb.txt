@@ -63,3 +63,11 @@ State-of-the-art Labs: The college boasts modern labs, studios, and kitchens for
 Work-integrated Learning: GBC emphasizes experiential learning, often incorporating co-op terms, internships, and field placements into their programs.
 
 Library and Research Facilities: The college has extensive library services, providing access to digital and physical resources to support student learning.
+
+Campus Locations
+George Brown College has three main campuses, all located within the Greater Toronto Area (GTA):
+
+St. James Campus: Offers programs related to business, hospitality, culinary arts, and design.
+
+Casa Loma Campus: Home to technology programs including construction, engineering, and health sciences.
+
