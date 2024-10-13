@@ -1,8 +1,23 @@
 gb.txt
 
 Information about George brown college.
-
+gi
 George Brown College (GBC) is a prominent public college located in the heart of Toronto, Ontario, Canada. As a hub of higher learning, it has established itself as one of the top institutions in the country, offering a comprehensive range of academic programs and opportunities for students from diverse backgrounds.
 
 Location and Environment:
 Situated in Toronto, George Brown College benefits from being in one of Canada's most vibrant and multicultural cities. Toronto is a major hub for business, technology, arts, and culture, offering students access to extensive professional networks, industry partnerships, and experiential learning opportunities.
+
+
+Public Institution:
+As a public college, George Brown is committed to providing affordable and accessible education to students. It focuses on creating seamless pathways for students to acquire practical skills, industry-specific knowledge, and hands-on experience to prepare them for the workforce or further studies.
+
+Courses and Programs Offered:
+George Brown College offers a wide array of programs, catering to the interests and career goals of students. These programs range from diploma and certificate courses to degree programs across various fields. Some of the key disciplines include:
+
+Art and Design: Students interested in creative fields can explore programs in graphic design, fashion, interior design, and more. The college emphasizes a blend of creativity and industry relevance.
+
+Business: GBC offers a variety of business-related courses, such as marketing, finance, accounting, human resources, and entrepreneurship. These programs are designed to equip students with the necessary skills to excel in the fast-paced world of business.
+
+Community Services: George Brown is known for its programs in community and social services, preparing students to work in social work, child and youth care, early childhood education, and other roles that support community well-being.
+
+Information Technology: With technology rapidly advancing, George Brown provides cutting-edge IT programs in software development, cybersecurity, data analytics, and computer systems. These programs focus on industry-driven skills and real-world application.
