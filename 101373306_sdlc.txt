@@ -1,1 +1,9 @@
-Importance of learning DevOps in the software development cycle.
+Importance of learning DevOps in the software development cycle.\
+
+Main Agenda of DevOps
+DevOps is a modern approach to software development and IT operations
+ aimed at improving efficiency, speed, and innovation. Its primary 
+ goals revolve around optimizing the entire software delivery lifecycle
+ , breaking down the traditional silos between development (Dev) and
+  operations (Ops), and fostering a culture of collaboration and
+   automation. Let’s elaborate on the key aspects of the DevOps agenda:
