@@ -1,1 +1,8 @@
 ##Information about the COMP 3104 DevOps course.##
+
+DevOps Course Overview
+DevOps is a collaborative approach that combines software development (Dev) and
+ IT operations (Ops). It emphasizes automation, collaboration, and integration to 
+ help organizations rapidly deliver high-quality software while ensuring the stability 
+ and security of their deployments. The goal of DevOps is to shorten the development
+   lifecycle and provide continuous delivery with high software quality.
