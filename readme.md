@@ -2,7 +2,7 @@
 ## Group Members
 - **Leader:**  Ans Joju (101418520) - [GitHub](https://github.com/ansj99)
 - **Member 2:** Nithiyan Annapoorani Valluvan (101418712) - [GitHub](https://github.com/ItsNithiyan)  
-- **Member 3:** Jane Doe (1023456) - [GitHub](https://github.com/janedoe)
+- **Member 3:** Sandra Antony (101416330) - [GitHub](https://github.com/Sandra2503)
 ## Project Description
 This repository hosts the group assignment for COMP3104 DevOps course, focusing on 
 collaborative Git workflows, branching strategies, and CI/CD integration.
