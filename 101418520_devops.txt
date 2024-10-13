@@ -30,3 +30,11 @@ Extra Certifications to consider:
 3) Microsoft Certified: DevOps Engineer Expert
 4) Docker Certified Associate
 5) Kubernetes Certification (CKA/CKAD)
+
+Career Oppurtunites:
+
+1) DevOps Engineer
+2) Site Reliability Engineer (SRE)
+3) Cloud Engineer
+4) Release Manager
+5) Systems Administrator
