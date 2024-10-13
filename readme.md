@@ -3,7 +3,7 @@
 - **Leader:**  Ans Joju (101418520) - [GitHub](https://github.com/ansj99)
 - **Member 2:** Nithiyan Annapoorani Valluvan (101418712) - [GitHub](https://github.com/ItsNithiyan)  
 - **Member 3:** Sandra Antony (101416330) - [GitHub](https://github.com/Sandra2503)
-- **Member 3:** Ashish Rajan  (101423478) - [GitHub](https://github.com/AshishhRajan)
+- **Member 4:** Ashish Rajan  (101423478) - [GitHub](https://github.com/AshishhRajan)
 - **Member 5:** Gokul Jinu (101416330) - [GitHub](https://github.com/gokulJinu01)
 
 ## Project Description
