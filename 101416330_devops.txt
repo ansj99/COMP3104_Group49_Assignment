@@ -1,0 +1,2 @@
+"Overview of the COMP 3104 DevOps course." 
+"Essential DevOps practices encompass Continuous Integration and Continuous Deployment." 
