@@ -1,0 +1,8 @@
+information about Devops course
+Its a software development and operations approach that enables faster development of new products and easier maintenance of existing deployments
+ Syllabus that comes under this course.
+this course covers topics such as project management methodologies, software architecture concepts, key DevOps tools and continuous integration and delivery.
+Career Pathways of Devops
+-DevOps Engineer
+-DevOps Architect
+-Release Manager
