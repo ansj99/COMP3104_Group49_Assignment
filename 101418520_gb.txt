@@ -34,3 +34,10 @@ Hospitality & Culinary Arts
 Honours Bachelor of Commerce (Culinary Management) 
 Honours Bachelor of Food Studies 
 Honours Bachelor of Business Administration (Hospitality) 
+
+campuses :
+
+1) Casa Loma campus
+2) St. James campus
+3) Waterfront campus
+4) Toronto Metropolitan University campus
