@@ -22,3 +22,11 @@ context of monolith vs microservice architectures.
 7. Utilize service platforms such as Infrastructure as Code and the associated benefits of
 cloud computing products.
 8. Identify the market space as a DevOps engineer. 
+
+Extra Certifications to consider:
+
+1) AWS Certified DevOps Engineer
+2) Google Professional DevOps Engineer
+3) Microsoft Certified: DevOps Engineer Expert
+4) Docker Certified Associate
+5) Kubernetes Certification (CKA/CKAD)
